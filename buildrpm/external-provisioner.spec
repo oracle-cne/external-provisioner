@@ -7,7 +7,7 @@
 %global app_name                external-provisioner
 %global app_name_release        csi-provisioner
 %global app_version             5.2.0
-%global oracle_release_version  1
+%global oracle_release_version  2
 %global _buildhost              build-ol%{?oraclelinux}-%{?_arch}.oracle.com
 
 Name:           %{app_name}
@@ -38,6 +38,9 @@ install -m 755 bin/%{app_name_release} %{buildroot}/%{app_name_release}
 /%{app_name_release}
 
 %changelog
+* Mon Mar 17 2025 Michael Gianatassio <michael.gianatassio@oracle.com> - 5.2.0-2
+- Rename the container image to be csi-provisioner.
+
 * Tue Mar 11 2025 Michael Gianatassio <michael.gianatassio@oracle.com> - 5.2.0-1
 - Added Oracle specific build files for CSI external-provisioner.
 
