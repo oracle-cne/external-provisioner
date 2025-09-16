@@ -109,7 +109,7 @@ github.com/cenkalti/backoff/v4
 SPDX:MIT
 
 == Copyright
-Copyright (c) 2014 Cenk AltÄ±
+Copyright (c) 2014 Cenk Altı
 
 --------------------------------- (separator) ----------------------------------
 
@@ -166,7 +166,7 @@ Copyright 2019 Hemant Kumar hekumar@redhat.com
 Copyright 2019 James DeFelice james.defelice@gmail.com
 Copyright 2019 Jie Yu yujie.jay@gmail.com
 Copyright 2019 Jose A. Rivera jarrpa@redhat.com
-Copyright 2019 Marc SolÃ© msolefonte@gmail.com
+Copyright 2019 Marc Solé msolefonte@gmail.com
 Copyright 2019 Tom Manville tom@kasten.io
 Copyright 2019 saad-ali saadali@google.com
 Copyright 2020 GitHub noreply@github.com
@@ -355,8 +355,7 @@ github.com/distribution/reference
 SPDX:Apache-2.0
 
 == Copyright
-Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
-Copyright The containerd Authors.
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -368,7 +367,7 @@ SPDX:Apache-2.0
 
 == Copyright
 Copyright 2015 Docker, Inc.
-Copyright Â© 2015 Docker, Inc.
+Copyright © 2015 Docker, Inc.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -451,7 +450,7 @@ github.com/felixge/httpsnoop
 SPDX:MIT
 
 == Copyright
-Copyright (c) 2016 Felix GeisendÃ¶rfer (felix@debuggable.com)
+Copyright (c) 2016 Felix Geisendörfer (felix@debuggable.com)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -463,8 +462,8 @@ SPDX:BSD-3-Clause--modified-by-Google
 
 == Copyright
 Copyright (c) 2013, Patrick Mezard
-Copyright Â© 2012 The Go Authors. All rights reserved.
-Copyright Â© fsnotify Authors. All rights reserved.
+Copyright © 2012 The Go Authors. All rights reserved.
+Copyright © fsnotify Authors. All rights reserved.
 
 --------------------------------- (separator) ----------------------------------
 
@@ -477,7 +476,7 @@ SPDX:MIT
 == Copyright
 Copyright (c) 2019-present Faye Amacker
 Copyright (c) Faye Amacker. All rights reserved.
-Copyright Â© 2019-2024 [Faye Amacker](https://github.com/fxamacker).
+Copyright © 2019-2024 [Faye Amacker](https://github.com/fxamacker).
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1104,130 +1103,24 @@ github.com/moby/sys/mountinfo
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2014 Ahmet Alp Balkan ahmetb@microsoft.com
-Copyright 2014 Alexander Larsson alexl@redhat.com
-Copyright 2014 Alexander Morozov lk4d4@docker.com
-Copyright 2014 Alexandr Morozov lk4d4@docker.com
-Copyright 2014 Alexandr Morozov lk4d4math@gmail.com
-Copyright 2014 Arnaud Porterie arnaud.porterie@docker.com
-Copyright 2014 Erik Dubbelboer erik@dubbelboer.com
-Copyright 2014 Guillaume J. Charmes guillaume.charmes@docker.com
-Copyright 2014 Guillaume J. Charmes guillaume@charmes.net
-Copyright 2014 Jessica Frazelle jess@docker.com
-Copyright 2014 Jessie Frazelle jfrazelle@users.noreply.github.com
-Copyright 2014 Kato Kazuyoshi kato.kazuyoshi@gmail.com
-Copyright 2014 Michael Crosby crosby.michael@gmail.com
-Copyright 2014 Michael Crosby crosbymichael@gmail.com
-Copyright 2014 Michael Crosby michael@crosbymichael.com
-Copyright 2014 Michael Crosby michael@docker.com
-Copyright 2014 Paul Nasrat pnasrat@gmail.com
-Copyright 2014 Peter Waller peter@scraperwiki.com
-Copyright 2014 Solomon Hykes solomon@docker.com
-Copyright 2014 Tianon Gravi admwiggin@gmail.com
-Copyright 2014 Tibor Vass teabee89@gmail.com
-Copyright 2014 Victor Vieux victor.vieux@docker.com
-Copyright 2014 Vincent Batts vbatts@redhat.com
-Copyright 2014 lalyos lalyos@yahoo.com
-Copyright 2014 shuai-z zs.broccoli@gmail.com
-Copyright 2014 unclejack unclejacksons@gmail.com
-Copyright 2015 Alexander Morozov lk4d4math@gmail.com
-Copyright 2015 Antonio Murdaca me@runcom.ninja
-Copyright 2015 Antonio Murdaca runcom@linux.com
-Copyright 2015 Antonio Murdaca runcom@users.noreply.github.com
-Copyright 2015 Arnaud Porterie arnaud.porterie@docker.com
-Copyright 2015 Cezar Sa Espinola cezarsa@gmail.com
-Copyright 2015 Chen Hanxiao chenhanxiao@cn.fujitsu.com
-Copyright 2015 Dan Walsh dwalsh@redhat.com
-Copyright 2015 David Calavera david.calavera@gmail.com
-Copyright 2015 Jamie Hannaford jamie.hannaford@rackspace.com
-Copyright 2015 John Howard jhoward@microsoft.com
-Copyright 2015 Justas Brazauskas brazauskasjustas@gmail.com
-Copyright 2015 Phil Estes estesp@linux.vnet.ibm.com
-Copyright 2015 Sebastiaan van Stijn thaJeztah@users.noreply.github.com
-Copyright 2015 Stefan J. Wernli swernli@microsoft.com
-Copyright 2015 Tim timwangdev@gmail.com
-Copyright 2015 Victor Vieux vieux@docker.com
-Copyright 2015 Vincent Demeester vincent@sbr.pm
-Copyright 2015 Yan Feng yanfeng2@huawei.com
-Copyright 2016 Aleksa Sarai asarai@suse.com
-Copyright 2016 Alexander Morozov lk4d4@docker.com
-Copyright 2016 Amit Krishnan amit.krishnan@oracle.com
-Copyright 2016 Brian Goff cpuguy83@gmail.com
-Copyright 2016 Daniel Nephin dnephin@docker.com
-Copyright 2016 Darren Stahl darst@microsoft.com
-Copyright 2016 Jessica Frazelle acidburn@docker.com
-Copyright 2016 Jhon Honce jhonce@redhat.com
-Copyright 2016 John Howard jhoward@microsoft.com
-Copyright 2016 Sebastiaan van Stijn thaJeztah@users.noreply.github.com
-Copyright 2016 Victor Vieux victorvieux@gmail.com
-Copyright 2016 Yong Tang yong.tang.github@outlook.com
-Copyright 2017 Brian Goff cpuguy83@gmail.com
-Copyright 2017 Christopher Jones tophj@linux.vnet.ibm.com
-Copyright 2017 Daniel Nephin dnephin@docker.com
-Copyright 2017 Derek McGowan derek@mcgstyle.net
-Copyright 2017 GitHub noreply@github.com
-Copyright 2017 John Howard jhoward@microsoft.com
-Copyright 2017 Justin Cormack justin.cormack@docker.com
-Copyright 2017 Kenfe-Mickael Laventure mickael.laventure@gmail.com
-Copyright 2017 Michael Crosby crosbymichael@gmail.com
-Copyright 2017 Naveed Jamil naveed.jamil@tenpearls.com
-Copyright 2017 Sebastiaan van Stijn github@gone.nl
-Copyright 2017 Steven Hartland steven.hartland@multiplay.co.uk
-Copyright 2017 Tobias Klauser tklauser@distanz.ch
-Copyright 2017 Vincent Demeester vincent@sbr.pm
-Copyright 2017 Yong Tang yong.tang.github@outlook.com
-Copyright 2017 phineas phin@phineas.io
-Copyright 2017 unclejack unclejack@users.noreply.github.com
-Copyright 2017 yuexiao-wang wang.yuexiao@zte.com.cn
-Copyright 2018 Brian Goff cpuguy83@gmail.com
-Copyright 2018 Daniel Nephin dnephin@docker.com
-Copyright 2018 Fabian Kramm kramm@covexo.com
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Kasper FabÃ¦ch Brandt poizan@poizan.dk
-Copyright 2018 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2018 Oliver Reason oli@overrateddev.co
-Copyright 2018 Sebastiaan van Stijn github@gone.nl
-Copyright 2018 Vincent Demeester vincent@sbr.pm
-Copyright 2019 GitHub noreply@github.com
-Copyright 2019 John Howard jhoward@microsoft.com
-Copyright 2019 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2019 Olli Janatuinen olli.janatuinen@gmail.com
-Copyright 2019 Sebastiaan van Stijn github@gone.nl
-Copyright 2019 Stig Larsson stig@larsson.dev
-Copyright 2020 Aleksa Sarai cyphar@cyphar.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2020 Sebastiaan van Stijn github@gone.nl
-Copyright 2020 Shengjing Zhu zhsj@debian.org
-Copyright 2020 Tobias Klauser tklauser@distanz.ch
-Copyright 2020 liuxiaodong liuxiaodong@loongson.cn
-Copyright 2021 Eng Zer Jun engzerjun@gmail.com
-Copyright 2021 GitHub noreply@github.com
-Copyright 2021 Hajime Tazaki thehajime@gmail.com
-Copyright 2021 Kazuyoshi Kato katokazu@amazon.com
-Copyright 2021 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2021 Muhammad Kaisar Arkhan hi@yukiisbo.red
-Copyright 2021 Sebastiaan van Stijn github@gone.nl
-Copyright 2022 Artem Khramov akhramov@pm.me
-Copyright 2022 GitHub noreply@github.com
-Copyright 2022 Kathryn Baldauf kabaldau@microsoft.com
-Copyright 2022 Kazuyoshi Kato katokazu@amazon.com
-Copyright 2022 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2022 Manu Gupta manugupt1@gmail.com
-Copyright 2022 Sebastiaan van Stijn github@gone.nl
-Copyright 2022 è°¢è‡´é‚¦ (XIE Zhibang) Yeking@Red54.com
-Copyright 2023 Aleksa Sarai cyphar@cyphar.com
-Copyright 2023 GitHub noreply@github.com
-Copyright 2023 Kir Kolyshkin kolyshkin@gmail.com
-Copyright 2023 Sebastiaan van Stijn github@gone.nl
-Copyright 2023 Tianon Gravi admwiggin@gmail.com
-Copyright 2024 GitHub noreply@github.com
-Copyright 2024 Sebastiaan van Stijn github@gone.nl
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+Copyright The containerd Authors.
 
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
 github.com/moby/sys/userns
+
+== License Type
+SPDX:Apache-2.0
+
+== Copyright
+(no copyright notices found)
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/modern-go/concurrent
 
 == License Type
 SPDX:Apache-2.0
@@ -1240,7 +1133,7 @@ Copyright 2014-2018 Docker, Inc.
 --------------------------------- (separator) ----------------------------------
 
 == Dependency
-github.com/modern-go/concurrent
+github.com/modern-go/reflect2
 
 == License Type
 SPDX:Apache-2.0
@@ -1249,26 +1142,6 @@ SPDX:Apache-2.0
 Copyright 2018 GitHub noreply@github.com
 Copyright 2018 Tao Wen taowen@gmail.com
 Copyright 2018 kr1sten0 zhqy0807@gmail.com
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
-github.com/modern-go/reflect2
-
-== License Type
-SPDX:Apache-2.0
-
-== Copyright
-Copyright 2018 GitHub noreply@github.com
-Copyright 2018 Justin Santa Barbara justinsb@google.com
-Copyright 2018 Tao Wen taowen@gmail.com
-Copyright 2018 nextzhou nextzhou@gmail.com
-Copyright 2020 Aaron Simmons paleozogt@gmail.com
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Mikko Ylinen mikko.ylinen@intel.com
-Copyright 2020 xueyuan zhangxueyuan@ayang.com
-Copyright 2021 GitHub noreply@github.com
-Copyright 2021 Tao Wen taowen@chengfayun.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1406,8 +1279,8 @@ Copyright 2016 Docker, Inc.
 Copyright 2017 Docker, Inc.
 Copyright 2019, 2020 OCI Contributors
 Copyright 2020, 2020 OCI Contributors
-Copyright Â© 2016 Docker, Inc.
-Copyright Â© 2019, 2020 OCI Contributors
+Copyright © 2016 Docker, Inc.
+Copyright © 2019, 2020 OCI Contributors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1469,11 +1342,11 @@ SPDX:Apache-2.0
 == Copyright
 Copyright (c) 2013 The Go Authors. All rights reserved.
 Copyright (c) 2013, The Prometheus Authors
-Copyright (c) 2015 BjÃ¶rn Rabenstein
+Copyright (c) 2015 Björn Rabenstein
 Copyright 2010 The Go Authors
 Copyright 2012-2015 The Prometheus Authors
 Copyright 2013 The Go Authors. All rights reserved.
-Copyright 2013-2015 Blake Mizerany, BjÃ¶rn Rabenstein
+Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
 Copyright 2014 The Prometheus Authors
 Copyright 2015 The Prometheus Authors
 Copyright 2016 The Prometheus Authors
@@ -1499,7 +1372,7 @@ The following components are included in this product:
 
 perks - a fork of https://github.com/bmizerany/perks
 https://github.com/beorn7/perks
-Copyright 2013-2015 Blake Mizerany, BjÃ¶rn Rabenstein
+Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
 See https://github.com/beorn7/perks/blob/master/README.md for license details.
 
 Go support for Protocol Buffers - Google's data interchange format
@@ -1651,8 +1524,8 @@ github.com/x448/float16
 SPDX:MIT
 
 == Copyright
-Copyright (c) 2019 Montgomery Edwardsâ´â´â¸ and Faye Amacker
-Copyright 2019 Montgomery Edwardsâ´â´â¸ and Faye Amacker
+Copyright (c) 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
+Copyright 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
 
 --------------------------------- (separator) ----------------------------------
 
@@ -2653,7 +2526,7 @@ gopkg.in/inf.v0
 SPDX:BSD-3-Clause--modified-by-Google
 
 == Copyright
-Copyright (c) 2012 PÃ©ter SurÃ¡nyi. Portions Copyright (c) 2009 The Go
+Copyright (c) 2012 Péter Surányi. Portions Copyright (c) 2009 The Go
 
 --------------------------------- (separator) ----------------------------------
 
@@ -3515,7 +3388,7 @@ Submitted on behalf of a third-party: @posener (Eyal Posener)
 Submitted on behalf of a third-party: @Ashikpaul (Ashik Paul)
 Submitted on behalf of a third-party: @kwongtailau (Kwongtai)
 Submitted on behalf of a third-party: @ericcornelissen (Eric Cornelissen)
-Submitted on behalf of a third-party: @eclipseo (Robert-AndrÃ© Mauchin)
+Submitted on behalf of a third-party: @eclipseo (Robert-André Mauchin)
 Submitted on behalf of a third-party: @yanzhoupan (Andrew Pan)
 Submitted on behalf of a third-party: @STRRL (Zhiqiang ZHOU)
 Submitted on behalf of a third-party: @disconnect3d (Disconnect3d)
